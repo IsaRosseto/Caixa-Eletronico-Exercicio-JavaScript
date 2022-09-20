@@ -1,0 +1,9 @@
+body {
+    background-color: #131C44 ;
+}
+
+.banco img  {
+    width: 50%;
+    margin-left: 25%;
+    z-index: 1;
+}
